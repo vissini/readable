@@ -14,3 +14,7 @@ This repository includes the code for the backend API Server that you'll use to 
     - `cd frontend`
     - `npm install`
     - `npm start`
+    
+## API Server
+
+Information about the API server and how to use it can be found in its [README file](api-server/README.md).
